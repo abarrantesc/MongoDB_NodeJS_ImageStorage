@@ -1,5 +1,5 @@
 # MongoDB_NodeJS_ImageStorage
-This is a lab about how create a backend with Node js and Express to storage binary image in database of MongoDb
+This is a lab about how create a backend with Node js and Express to storage binary image in database of MongoDb and using typescript
 
 
 Install project with npm install 
